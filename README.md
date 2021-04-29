@@ -25,6 +25,7 @@ The ancillary files included are:
 •	A text file containing compiled annual salience data for each Level 1 topic (salience_data_L1.txt).
 
 •	A text file containing compiled annual salience data for each Level 1 topic (salience_data_L2.txt).
+
 •	A text file containing the years for which salience data was analyzed (years_for_charts.txt).
 
 •	A text file containing the total number of abstracts for each year (year_counts.txt).
