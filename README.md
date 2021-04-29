@@ -1,4 +1,3 @@
-# formalepistemologySBM
 Enclosed are the ancillary files for my paper, “Diachronic Trends in the Topic Distributions of Formal Epistemology Abstracts”, which I am submitting for consideration in the Synthese special issue “Metaphilosophy of Formal Methods”. 
 
 The ancillary files included are:
